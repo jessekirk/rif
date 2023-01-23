@@ -1,0 +1,10 @@
+C:\Users\jesse.kirk\Desktop\github\Rif\bin\Debug\netstandard2.0\Rif.deps.json
+C:\Users\jesse.kirk\Desktop\github\Rif\bin\Debug\netstandard2.0\Rif.dll
+C:\Users\jesse.kirk\Desktop\github\Rif\bin\Debug\netstandard2.0\Rif.pdb
+C:\Users\jesse.kirk\Desktop\github\Rif\obj\Debug\netstandard2.0\Rif.csproj.AssemblyReference.cache
+C:\Users\jesse.kirk\Desktop\github\Rif\obj\Debug\netstandard2.0\Rif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse.kirk\Desktop\github\Rif\obj\Debug\netstandard2.0\Rif.AssemblyInfoInputs.cache
+C:\Users\jesse.kirk\Desktop\github\Rif\obj\Debug\netstandard2.0\Rif.AssemblyInfo.cs
+C:\Users\jesse.kirk\Desktop\github\Rif\obj\Debug\netstandard2.0\Rif.csproj.CoreCompileInputs.cache
+C:\Users\jesse.kirk\Desktop\github\Rif\obj\Debug\netstandard2.0\Rif.dll
+C:\Users\jesse.kirk\Desktop\github\Rif\obj\Debug\netstandard2.0\Rif.pdb
